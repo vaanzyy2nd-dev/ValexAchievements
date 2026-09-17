@@ -1,0 +1,20 @@
+settings:
+  autosave-seconds: 60
+  notify-on-unlock: true
+  notify-title: true
+
+data:
+  database-file: data.db
+
+messages:
+  prefix: "&#7A5CFF&lᴠᴀʟᴇx &8» "
+  no-permission: "&cKamu tidak memiliki permission."
+  achievement-list: "&#BFA7FF&lᴘʀᴏɢʀᴇꜱꜱ ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛ"
+  no-achievements: "&7Belum ada achievement yang terdaftar."
+  unlocked: "&#BFA7FF✓ &fAchievement terbuka: &#7A5CFF{achievement}"
+  title-unlocked: "&#BFA7FF✦ &fTitle diperoleh: &#7A5CFF{title}"
+  progress: "&7{achievement} &8• &f{current}&7/&f{target}"
+
+rewards:
+  enabled: false
+  commands: []
