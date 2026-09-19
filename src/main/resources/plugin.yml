@@ -1,0 +1,17 @@
+name: ValexAchievements
+version: 1.0.0
+main: me.valexsmp.achievements.ValexAchievements
+api-version: '26.2'
+author: VanzzYour
+description: Config-driven achievement and title system for Paper.
+commands:
+  achievement:
+    description: Opens the achievement menu.
+    aliases: [achievements, ach]
+    usage: /achievement
+    permission: valexachievements.use
+permissions:
+  valexachievements.use:
+    default: true
+  valexachievements.admin:
+    default: op
