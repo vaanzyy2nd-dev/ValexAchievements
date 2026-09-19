@@ -1,0 +1,104 @@
+main:
+  title: "&#7A5CFF🏆 ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛs"
+  size: 54
+
+items:
+  background:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: " "
+    lore: []
+
+  mining:
+    material: DIAMOND_PICKAXE
+    slot: 20
+    name: "&#BFA7FF⛏ ᴍɪɴɪɴɢ"
+    lore:
+      - "&7ᴘʀᴏɢʀᴇss ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛ ᴍɪɴɪɴɢ."
+      - ""
+      - "&fᴄʟɪᴄᴋ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ."
+
+  hunter:
+    material: IRON_SWORD
+    slot: 22
+    name: "&#BFA7FF⚔ ʜᴜɴᴛᴇʀ"
+    lore:
+      - "&7ᴘʀᴏɢʀᴇss ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛ ʜᴜɴᴛᴇʀ."
+      - ""
+      - "&fᴄʟɪᴄᴋ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ."
+
+  fishing:
+    material: FISHING_ROD
+    slot: 24
+    name: "&#BFA7FF🎣 ғɪsʜɪɴɢ"
+    lore:
+      - "&7ᴘʀᴏɢʀᴇss ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛ ғɪsʜɪɴɢ."
+      - ""
+      - "&fᴄʟɪᴄᴋ ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ."
+
+  titles:
+    material: NAME_TAG
+    slot: 40
+    name: "&#BFA7FF🏷 ᴛɪᴛʟᴇs"
+    lore:
+      - "&7ᴘɪʟɪʜ ᴛɪᴛʟᴇ ʏᴀɴɢ ᴛᴇʟᴀʜ ᴋᴀᴍᴜ ᴜɴʟᴏᴄᴋ."
+
+  close:
+    material: BARRIER
+    slot: 49
+    name: "&c✕ ᴛᴜᴛᴜᴘ"
+    lore: []
+
+category:
+  title: "&#7A5CFF🏆 %category%"
+  size: 54
+  background:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: " "
+    lore: []
+  achievement:
+    unlocked-material: LIME_DYE
+    locked-material: GRAY_DYE
+    name: "%status% %achievement_name%"
+    lore:
+      - "%description%"
+      - ""
+      - "&7ᴘʀᴏɢʀᴇss: &f%progress%&7/&f%target%"
+      - "%bar%"
+      - ""
+      - "%reward%"
+  back:
+    material: ARROW
+    slot: 49
+    name: "&#BFA7FF← ᴋᴇᴍʙᴀʟɪ"
+    lore: []
+
+titles:
+  title: "&#7A5CFF🏷 ᴛɪᴛʟᴇs"
+  size: 54
+  background:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: " "
+    lore: []
+  unlocked:
+    material: NAME_TAG
+    name: "&#BFA7FF%title%"
+    lore:
+      - "&7ᴜɴʟᴏᴄᴋᴇᴅ"
+      - ""
+      - "%selected%"
+      - "&fᴄʟɪᴄᴋ ᴜɴᴛᴜᴋ ᴍᴇᴍɪʟɪʜ."
+  empty:
+    material: GRAY_DYE
+    name: "&7%title%"
+    lore:
+      - "&8ʙᴇʟᴜᴍ ᴛᴇʀʙᴜᴋᴀ"
+  back:
+    material: ARROW
+    slot: 49
+    name: "&#BFA7FF← ᴋᴇᴍʙᴀʟɪ"
+    lore: []
+
+progress:
+  completed: "&a■"
+  incomplete: "&7■"
+  length: 10
