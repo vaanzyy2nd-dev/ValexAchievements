@@ -1,0 +1,15 @@
+settings:
+  autosave-seconds: 60
+  notify-progress: true
+  notify-completion: true
+  give-title-on-completion: true
+  database-file: data.db
+
+messages:
+  prefix: "&#7A5CFFᴠᴀʟᴇx ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛs &8» "
+  opened: "&#BFA7FFᴏᴘᴇɴɪɴɢ ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛs..."
+  progress: "&#BFA7FF%achievement_name% &7%progress%&8/&7%target%"
+  completed: "&#7A5CFF✦ %achievement_name% &7ᴜɴʟᴏᴄᴋᴇᴅ!"
+  title-unlocked: "&#BFA7FFᴛɪᴛʟᴇ ᴜɴʟᴏᴄᴋᴇᴅ: &f%title%"
+  title-selected: "&#BFA7FFᴛɪᴛʟᴇ sᴇʟᴇᴄᴛᴇᴅ: &f%title%"
+  no-title: "&7ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ ᴜɴʟᴏᴄᴋᴇᴅ ᴀɴʏ ᴛɪᴛʟᴇ."
