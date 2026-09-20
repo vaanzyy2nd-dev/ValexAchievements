@@ -1,0 +1,41 @@
+achievements:
+  mining_1:
+    category: "ᴍɪɴɪɴɢ"
+    name: "ᴍɪɴɪɴɢ Ⅰ"
+    description:
+      - "ᴛᴀᴍʙᴀɴɢ 100 ᴏʀᴇ."
+    type: MINE_ORE
+    target: 100
+    title: "ᴏʀᴇ ᴍɪɴᴇʀ"
+    reward:
+      commands: []
+  mining_2:
+    category: "ᴍɪɴɪɴɢ"
+    name: "ᴍɪɴɪɴɢ Ⅱ"
+    description:
+      - "ᴛᴀᴍʙᴀɴɢ 500 ᴏʀᴇ."
+    type: MINE_ORE
+    target: 500
+    title: "ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴍɪɴᴇʀ"
+    reward:
+      commands: []
+  hunter_1:
+    category: "ʜᴜɴᴛᴇʀ"
+    name: "ʜᴜɴᴛᴇʀ Ⅰ"
+    description:
+      - "ᴋᴀʟᴀʜᴋᴀɴ 100 ᴍᴏʙ."
+    type: KILL_MOB
+    target: 100
+    title: "ᴍᴏʙ ʜᴜɴᴛᴇʀ"
+    reward:
+      commands: []
+  fisher_1:
+    category: "ғɪsʜɪɴɢ"
+    name: "ғɪsʜᴇʀ Ⅰ"
+    description:
+      - "ᴛᴀɴɢᴋᴀᴘ 50 ɪᴋᴀɴ."
+    type: CATCH_FISH
+    target: 50
+    title: "ғɪsʜᴇʀ"
+    reward:
+      commands: []
